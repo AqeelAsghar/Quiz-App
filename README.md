@@ -1,2 +1,2 @@
-# fluyoAssignment
- fluyoAssignment quiz app
+# Quiz App
+  quiz app with drag and drop options 
